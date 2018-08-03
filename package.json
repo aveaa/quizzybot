@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "description": "bot",
+  "version": "1.0.0",
+  "main": "quizzy.js",
+  "scripts": {
+    "start": "node quizzy.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "11.3.0",
+    "querystring": "^0.2.0",
+    "snekfetch": "^4.0.4"
+  }
+}
